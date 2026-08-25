@@ -12,7 +12,7 @@
             "archived": false,
             "id": 154739597,
             "language": "Python",
-            "last_commit": "2026-08-25T05:33:32Z",
+            "last_commit": "2026-08-25T07:00:10Z",
             "owner": "jax-ml",
             "repo": "jax",
             "stars": 36212
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 154739597,
             "language": "Python",
-            "last_commit": "2026-08-25T05:33:32Z",
+            "last_commit": "2026-08-25T07:00:10Z",
             "owner": "jax-ml",
             "repo": "jax",
             "stars": 36212
@@ -278,10 +278,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:59:39Z",
+                "last_commit": "2026-08-25T07:07:28Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164412
+                "stars": 164414
               }
             },
             {
@@ -507,10 +507,10 @@
                 "archived": false,
                 "id": 607845880,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:02:06Z",
+                "last_commit": "2026-08-25T06:33:01Z",
                 "owner": "AI-Hypercomputer",
                 "repo": "maxtext",
-                "stars": 2406
+                "stars": 2407
               }
             },
             {
@@ -717,7 +717,7 @@
                 "archived": false,
                 "id": 601182235,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:09:54Z",
+                "last_commit": "2026-08-25T06:07:04Z",
                 "owner": "NVIDIA",
                 "repo": "JAX-Toolbox",
                 "stars": 428
@@ -1242,7 +1242,7 @@
                 "archived": false,
                 "id": 320741919,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T01:46:12Z",
+                "last_commit": "2026-08-25T06:27:28Z",
                 "owner": "HajimeKawahara",
                 "repo": "exojax",
                 "stars": 74
@@ -1317,7 +1317,7 @@
                 "archived": false,
                 "id": 712381713,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:56:38Z",
+                "last_commit": "2026-08-25T06:52:25Z",
                 "owner": "jeertmans",
                 "repo": "DiffeRT",
                 "stars": 64
@@ -2676,7 +2676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:02:28.331Z",
+    "last_updated": "2026-08-25T07:08:11.928Z",
     "original_repository": "n2cholas/awesome-jax",
     "original_repository_id": 323156619,
     "original_repository_sha": "ccc12842b71f0d61ce555ec147244a6c303557ce",

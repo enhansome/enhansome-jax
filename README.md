@@ -4,7 +4,7 @@
 
 <!--lint ignore double-link-->
 
-[JAX](https://github.com/google/jax) ⭐ 36,212 | 🐛 2,468 | 🌐 Python | 📅 2026-08-25 brings automatic differentiation and the [XLA compiler](https://www.tensorflow.org/xla) together through a [NumPy](https://numpy.org/)-like API for high performance machine learning research on accelerators like GPUs and TPUs.
+[JAX](https://github.com/google/jax) ⭐ 36,212 | 🐛 2,469 | 🌐 Python | 📅 2026-08-25 brings automatic differentiation and the [XLA compiler](https://www.tensorflow.org/xla) together through a [NumPy](https://numpy.org/)-like API for high performance machine learning research on accelerators like GPUs and TPUs.
 
 <!--lint enable double-link-->
 
@@ -12,7 +12,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 
 ## Contents
 
-* [Papers](#papers)<https://github.com/jax-ml/jax> ⭐ 36,212 | 🐛 2,468 | 🌐 Python | 📅 2026-08-25
+* [Papers](#papers)<https://github.com/jax-ml/jax> ⭐ 36,212 | 🐛 2,469 | 🌐 Python | 📅 2026-08-25
 * [Libraries](#libraries)
 * [Models and Projects](#models-and-projects)
 * [Videos](#videos)
@@ -40,7 +40,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 * [Distrax](https://github.com/deepmind/distrax) ⭐ 648 | 🐛 60 | 🌐 Python | 📅 2026-07-30 - Reimplementation of TensorFlow Probability, containing probability distributions and bijectors. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">
 * [Coax](https://github.com/coax-dev/coax) ⭐ 185 | 🐛 7 | 🌐 Python | 📅 2023-02-01 - Turn RL papers into code, the easy way. <img src="https://img.shields.io/github/stars/coax-dev/coax?style=social" align="center">
 * Neural Network Libraries
-  * [HuggingFace Transformers](https://github.com/huggingface/transformers) ⭐ 164,412 | 🐛 2,397 | 🌐 Python | 📅 2026-08-25 - Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax). <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
+  * [HuggingFace Transformers](https://github.com/huggingface/transformers) ⭐ 164,414 | 🐛 2,396 | 🌐 Python | 📅 2026-08-25 - Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax). <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
   * [Trax](https://github.com/google/trax) ⚠️ Archived - "Batteries included" deep learning library focused on providing solutions for common workloads. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
   * [Flax](https://github.com/google/flax) ⭐ 7,302 | 🐛 510 | 🌐 Jupyter Notebook | 📅 2026-08-24 - Centered on flexibility and clarity. <img src="https://img.shields.io/github/stars/google/flax?style=social" align="center">
   * [Flax NNX](https://github.com/google/flax/tree/main/flax/nnx) ⭐ 7,302 | 🐛 510 | 🌐 Jupyter Notebook | 📅 2026-08-24 - An evolution on Flax by the same team <img src="https://img.shields.io/github/stars/google/flax?style=social" align="center">
@@ -63,7 +63,7 @@ This section contains libraries that are well-made and useful, but have not nece
 * [Oryx](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) ⭐ 4,427 | 🐛 726 | 🌐 Jupyter Notebook | 📅 2026-08-06 - Probabilistic programming language based on program transformations.
 * [BRAX](https://github.com/google/brax) ⭐ 3,223 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-08-06 - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 * [Mctx](https://github.com/deepmind/mctx) ⭐ 2,653 | 🐛 7 | 🌐 Python | 📅 2026-08-06 - Monte Carlo tree search algorithms in native JAX. <img src="https://img.shields.io/github/stars/deepmind/mctx?style=social" align="center">
-* [MaxText](https://github.com/google/maxtext) ⭐ 2,406 | 🐛 299 | 🌐 Python | 📅 2026-08-25 - A simple, performant and scalable Jax LLM written in pure Python/Jax and targeting Google Cloud TPUs. <img src="https://img.shields.io/github/stars/google/maxtext?style=social" align="center">
+* [MaxText](https://github.com/google/maxtext) ⭐ 2,407 | 🐛 299 | 🌐 Python | 📅 2026-08-25 - A simple, performant and scalable Jax LLM written in pure Python/Jax and targeting Google Cloud TPUs. <img src="https://img.shields.io/github/stars/google/maxtext?style=social" align="center">
 * [Diffrax](https://github.com/patrick-kidger/diffrax) ⭐ 2,089 | 🐛 239 | 🌐 Python | 📅 2026-06-21 - Numerical differential equation solvers in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/diffrax?style=social" align="center">
 * [purejaxrl](https://github.com/luchris429/purejaxrl) ⭐ 1,099 | 🐛 19 | 🌐 Python | 📅 2024-09-09 - Vectorisable, end-to-end RL algorithms in JAX. <img src="https://img.shields.io/github/stars/luchris429/purejaxrl?style=social" align="center">
 * [EvoJAX](https://github.com/google/evojax) ⚠️ Archived - Hardware-Accelerated Neuroevolution <img src="https://img.shields.io/github/stars/google/evojax?style=social" align="center">
@@ -77,7 +77,7 @@ This section contains libraries that are well-made and useful, but have not nece
 * [mpi4jax](https://github.com/PhilipVinc/mpi4jax) ⭐ 543 | 🐛 25 | 🌐 Python | 📅 2026-08-24 - Combine MPI operations with your Jax code on CPUs and GPUs. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
 * [XLB](https://github.com/Autodesk/XLB) ⭐ 502 | 🐛 15 | 🌐 Python | 📅 2026-05-29 - A Differentiable Massively Parallel Lattice Boltzmann Library in Python for Physics-Based Machine Learning. <img src="https://img.shields.io/github/stars/Autodesk/XLB?style=social" align="center">
 * [PIX](https://github.com/deepmind/dm_pix) ⭐ 444 | 🐛 4 | 🌐 Python | 📅 2026-08-24 - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
-* [JAX Toolbox](https://github.com/NVIDIA/JAX-Toolbox) ⭐ 428 | 🐛 45 | 🌐 Python | 📅 2026-08-24 - Nightly CI and optimized examples for JAX on NVIDIA GPUs using libraries such as T5x, Paxml, and Transformer Engine. <img src="https://img.shields.io/github/stars/NVIDIA/JAX-Toolbox?style=social" align="center">
+* [JAX Toolbox](https://github.com/NVIDIA/JAX-Toolbox) ⭐ 428 | 🐛 45 | 🌐 Python | 📅 2026-08-25 - Nightly CI and optimized examples for JAX on NVIDIA GPUs using libraries such as T5x, Paxml, and Transformer Engine. <img src="https://img.shields.io/github/stars/NVIDIA/JAX-Toolbox?style=social" align="center">
 * [EasyDeL](https://github.com/erfanzar/EasyDeL) ⭐ 372 | 🐛 15 | 🌐 Python | 📅 2026-08-22 - EasyDeL 🔮 is an OpenSource Library to make your training faster and more Optimized With cool Options for training and serving (Llama, MPT, Mixtral, Falcon, etc) in JAX <img src="https://img.shields.io/github/stars/erfanzar/EasyDeL?style=social" align="center">
 * [QDax](https://github.com/adaptive-intelligent-robotics/QDax) ⭐ 361 | 🐛 27 | 🌐 Python | 📅 2025-10-30 - Quality Diversity optimization in Jax. <img src="https://img.shields.io/github/stars/adaptive-intelligent-robotics/QDax?style=social" align="center">
 * [tinygp](https://github.com/dfm/tinygp) ⭐ 347 | 🐛 33 | 🌐 Python | 📅 2026-08-03 - The *tiniest* of Gaussian process libraries in JAX. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
@@ -112,7 +112,7 @@ This section contains libraries that are well-made and useful, but have not nece
 * [jax-unirep](https://github.com/ElArkk/jax-unirep) ⭐ 107 | 🐛 12 | 🌐 TeX | 📅 2024-09-03 - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 * [CR.Sparse](https://github.com/carnotresearch/cr-sparse) ⭐ 103 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-10-17 - XLA accelerated algorithms for sparse representations and compressive sensing. <img src="https://img.shields.io/github/stars/carnotresearch/cr-sparse?style=social" align="center">
 * [efax](https://github.com/NeilGirdhar/efax) ⭐ 77 | 🐛 9 | 🌐 Python | 📅 2026-08-19 - Exponential Families in JAX. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
-* [exojax](https://github.com/HajimeKawahara/exojax) ⭐ 74 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2026-08-25 - Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
+* [exojax](https://github.com/HajimeKawahara/exojax) ⭐ 74 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-08-25 - Automatic differentiable spectrum modeling of exoplanets/brown dwarfs compatible to JAX. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
 * [Kernex](https://github.com/ASEM000/kernex) ⭐ 73 | 🐛 8 | 🌐 Python | 📅 2025-11-15 - Differentiable stencil decorators in JAX. <img src="https://img.shields.io/github/stars/ASEM000/kernex?style=social" align="center">
 * [astronomix](https://github.com/leo1200/astronomix) ⭐ 71 | 🐛 5 | 🌐 Python | 📅 2026-08-19 - differentiable (magneto)hydrodynamics for astrophysics in JAX <img src="https://img.shields.io/github/stars/leo1200/astronomix?style=social" align="center">
 * [delta PV](https://github.com/romanodev/deltapv) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2025-09-28 - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
@@ -245,7 +245,7 @@ This section contains libraries that are well-made and useful, but have not nece
 * [JAX on Cloud TPUs | NeurIPS 2020 | Skye Wanderman-Milne and James Bradbury](https://drive.google.com/file/d/1jKxefZT1xJDUxMman6qrQVed7vWI0MIn/edit) - Presentation of TPU host access with demo.
 * [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond | NeurIPS 2020](https://slideslive.com/38935810/deep-implicit-layers-neural-odes-equilibrium-models-and-beyond) - Tutorial created by Zico Kolter, David Duvenaud, and Matt Johnson with Colab notebooks avaliable in [*Deep Implicit Layers*](http://implicit-layers-tutorial.org).
 * [Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey](http://matpalm.com/blog/ymxb_pod_slice/) - A four part YouTube tutorial series with Colab notebooks that starts with Jax fundamentals and moves up to training with a data parallel approach on a v3-32 TPU Pod slice.
-* [JAX, Flax & Transformers 🤗](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) ⭐ 164,412 | 🐛 2,397 | 🌐 Python | 📅 2026-08-25 - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
+* [JAX, Flax & Transformers 🤗](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) ⭐ 164,414 | 🐛 2,396 | 🌐 Python | 📅 2026-08-25 - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
 
 <a name="papers" />
 
@@ -304,7 +304,7 @@ This section contains papers focused on JAX (e.g. JAX-based library whitepapers,
 ## Community
 
 * [JaxLLM (Unofficial) Discord](https://discord.com/channels/1107832795377713302/1107832795688083561)
-* [JAX GitHub Discussions](https://github.com/google/jax/discussions) ⭐ 36,212 | 🐛 2,468 | 🌐 Python | 📅 2026-08-25
+* [JAX GitHub Discussions](https://github.com/google/jax/discussions) ⭐ 36,212 | 🐛 2,469 | 🌐 Python | 📅 2026-08-25
 * [Reddit](https://www.reddit.com/r/JAX/)
 
 ## Contributing
