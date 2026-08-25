@@ -12,10 +12,10 @@
             "archived": false,
             "id": 154739597,
             "language": "Python",
-            "last_commit": "2026-08-24T13:16:09Z",
+            "last_commit": "2026-08-25T05:33:32Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36209
+            "stars": 36212
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 154739597,
             "language": "Python",
-            "last_commit": "2026-08-24T13:16:09Z",
+            "last_commit": "2026-08-25T05:33:32Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36209
+            "stars": 36212
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T00:45:18Z",
             "owner": "pyro-ppl",
             "repo": "numpyro",
-            "stars": 2744
+            "stars": 2745
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-01-26T20:08:30Z",
             "owner": "marin-community",
             "repo": "levanter",
-            "stars": 710
+            "stars": 711
           }
         },
         {
@@ -278,10 +278,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:46:26Z",
+                "last_commit": "2026-08-25T05:59:39Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164394
+                "stars": 164412
               }
             },
             {
@@ -308,10 +308,10 @@
                 "archived": false,
                 "id": 233016299,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:40:24Z",
+                "last_commit": "2026-08-24T19:34:32Z",
                 "owner": "google",
                 "repo": "flax",
-                "stars": 7301
+                "stars": 7302
               }
             },
             {
@@ -323,10 +323,10 @@
                 "archived": false,
                 "id": 233016299,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:40:24Z",
+                "last_commit": "2026-08-24T19:34:32Z",
                 "owner": "google",
                 "repo": "flax",
-                "stars": 7301
+                "stars": 7302
               }
             },
             {
@@ -353,7 +353,7 @@
                 "archived": false,
                 "id": 241296160,
                 "language": "Python",
-                "last_commit": "2026-08-06T15:20:45Z",
+                "last_commit": "2026-08-24T21:39:15Z",
                 "owner": "google-deepmind",
                 "repo": "dm-haiku",
                 "stars": 3274
@@ -371,7 +371,7 @@
                 "last_commit": "2026-08-10T10:52:15Z",
                 "owner": "patrick-kidger",
                 "repo": "equinox",
-                "stars": 2956
+                "stars": 2957
               }
             },
             {
@@ -395,7 +395,7 @@
               "description": "Prioritizes legibility, visualization, and easy editing of neural network models with composable tools and a simple mental model.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "id": 781756197,
                 "language": "Python",
                 "last_commit": "2025-06-22T05:45:13Z",
@@ -450,7 +450,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -507,10 +507,10 @@
                 "archived": false,
                 "id": 607845880,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:10:04Z",
+                "last_commit": "2026-08-25T06:02:06Z",
                 "owner": "AI-Hypercomputer",
                 "repo": "maxtext",
-                "stars": 2403
+                "stars": 2406
               }
             },
             {
@@ -525,7 +525,7 @@
                 "last_commit": "2026-06-21T10:38:03Z",
                 "owner": "patrick-kidger",
                 "repo": "diffrax",
-                "stars": 2088
+                "stars": 2089
               }
             },
             {
@@ -540,7 +540,7 @@
                 "last_commit": "2024-09-09T19:05:43Z",
                 "owner": "luchris429",
                 "repo": "purejaxrl",
-                "stars": 1098
+                "stars": 1099
               }
             },
             {
@@ -582,7 +582,7 @@
                 "archived": false,
                 "id": 523628011,
                 "language": "Python",
-                "last_commit": "2026-08-21T23:04:26Z",
+                "last_commit": "2026-08-24T16:00:06Z",
                 "owner": "instadeepai",
                 "repo": "jumanji",
                 "stars": 857
@@ -615,7 +615,7 @@
                 "last_commit": "2026-06-14T18:06:20Z",
                 "owner": "ott-jax",
                 "repo": "ott",
-                "stars": 753
+                "stars": 754
               }
             },
             {
@@ -627,7 +627,7 @@
                 "archived": false,
                 "id": 299115429,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:16:24Z",
+                "last_commit": "2026-08-25T04:45:35Z",
                 "owner": "thomaspinder",
                 "repo": "GPJax",
                 "stars": 655
@@ -702,7 +702,7 @@
                 "archived": false,
                 "id": 381765733,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:04:04Z",
+                "last_commit": "2026-08-24T21:38:36Z",
                 "owner": "google-deepmind",
                 "repo": "dm_pix",
                 "stars": 444
@@ -920,21 +920,6 @@
             },
             {
               "node_type": "item",
-              "title": "Optimal Transport Tools",
-              "description": "Toolbox that bundles utilities to solve optimal transport problems.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 330701720,
-                "language": "Python",
-                "last_commit": "2022-01-31T17:32:59Z",
-                "owner": "google-research",
-                "repo": "ott",
-                "stars": 214
-              }
-            },
-            {
-              "node_type": "item",
               "title": "jwave",
               "description": "A library for differentiable acoustic simulations",
               "children": [],
@@ -945,6 +930,21 @@
                 "last_commit": "2026-03-22T17:32:34Z",
                 "owner": "ucl-bug",
                 "repo": "jwave",
+                "stars": 215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Optimal Transport Tools",
+              "description": "Toolbox that bundles utilities to solve optimal transport problems.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 330701720,
+                "language": "Python",
+                "last_commit": "2022-01-31T17:32:59Z",
+                "owner": "google-research",
+                "repo": "ott",
                 "stars": 214
               }
             },
@@ -990,7 +990,7 @@
                 "last_commit": "2026-08-17T17:32:43Z",
                 "owner": "epignatelli",
                 "repo": "navix",
-                "stars": 178
+                "stars": 180
               }
             },
             {
@@ -1020,7 +1020,7 @@
                 "last_commit": "2026-08-20T15:21:06Z",
                 "owner": "lanl",
                 "repo": "scico",
-                "stars": 168
+                "stars": 169
               }
             },
             {
@@ -1242,7 +1242,7 @@
                 "archived": false,
                 "id": 320741919,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T03:49:30Z",
+                "last_commit": "2026-08-25T01:46:12Z",
                 "owner": "HajimeKawahara",
                 "repo": "exojax",
                 "stars": 74
@@ -1317,7 +1317,7 @@
                 "archived": false,
                 "id": 712381713,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:13:30Z",
+                "last_commit": "2026-08-25T05:56:38Z",
                 "owner": "jeertmans",
                 "repo": "DiffeRT",
                 "stars": 64
@@ -1422,7 +1422,7 @@
                 "archived": false,
                 "id": 662956038,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:01:40Z",
+                "last_commit": "2026-08-24T15:02:27Z",
                 "owner": "gchq",
                 "repo": "coreax",
                 "stars": 43
@@ -1617,7 +1617,7 @@
                     "last_commit": "2026-08-11T05:05:24Z",
                     "owner": "patrick-kidger",
                     "repo": "optimistix",
-                    "stars": 614
+                    "stars": 615
                   }
                 }
               ]
@@ -1681,7 +1681,7 @@
                     "archived": false,
                     "id": 825447742,
                     "language": "Python",
-                    "last_commit": "2026-08-19T11:05:17Z",
+                    "last_commit": "2026-08-25T04:37:49Z",
                     "owner": "chaobrain",
                     "repo": "braincell",
                     "stars": 13
@@ -1729,7 +1729,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1744,7 +1744,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1759,7 +1759,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1774,7 +1774,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1789,7 +1789,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1804,7 +1804,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1819,7 +1819,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1886,7 +1886,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1901,7 +1901,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1916,7 +1916,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1931,7 +1931,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1946,7 +1946,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1961,7 +1961,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1976,7 +1976,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -1991,7 +1991,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2006,7 +2006,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2021,7 +2021,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2036,7 +2036,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2051,7 +2051,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2066,7 +2066,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2081,7 +2081,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2096,7 +2096,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2111,7 +2111,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2126,7 +2126,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2141,7 +2141,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2156,7 +2156,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2171,7 +2171,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2186,7 +2186,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2201,7 +2201,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2216,7 +2216,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2231,7 +2231,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12679
+                "stars": 12681
               }
             },
             {
@@ -2403,7 +2403,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -2418,7 +2418,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15166
+                "stars": 15167
               }
             },
             {
@@ -2433,7 +2433,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15166
+                "stars": 15167
               }
             },
             {
@@ -2448,7 +2448,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15166
+                "stars": 15167
               }
             },
             {
@@ -2463,7 +2463,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15166
+                "stars": 15167
               }
             },
             {
@@ -2478,7 +2478,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15166
+                "stars": 15167
               }
             },
             {
@@ -2493,7 +2493,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15166
+                "stars": 15167
               }
             },
             {
@@ -2508,7 +2508,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15166
+                "stars": 15167
               }
             },
             {
@@ -2523,7 +2523,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15166
+                "stars": 15167
               }
             },
             {
@@ -2538,7 +2538,7 @@
                 "last_commit": "2026-04-22T17:58:21Z",
                 "owner": "google-deepmind",
                 "repo": "alphafold",
-                "stars": 14806
+                "stars": 14807
               }
             },
             {
@@ -2609,7 +2609,7 @@
                 "archived": false,
                 "id": 399377010,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-07T09:04:57Z",
+                "last_commit": "2026-08-24T15:45:05Z",
                 "owner": "RothkopfLab",
                 "repo": "lqg",
                 "stars": 31
@@ -2676,7 +2676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:20.727Z",
+    "last_updated": "2026-08-25T06:02:28.331Z",
     "original_repository": "n2cholas/awesome-jax",
     "original_repository_id": 323156619,
     "original_repository_sha": "ccc12842b71f0d61ce555ec147244a6c303557ce",
