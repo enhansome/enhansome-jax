@@ -15,11 +15,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T08:07:39Z",
-            "open_issues": 2497,
+            "last_commit": "2026-09-02T11:04:36Z",
+            "open_issues": 2511,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36234,
+            "stars": 36237,
             "topics": [
               "jax"
             ]
@@ -38,11 +38,11 @@
             "id": 154739597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T08:07:39Z",
-            "open_issues": 2497,
+            "last_commit": "2026-09-02T11:04:36Z",
+            "open_issues": 2511,
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36234,
+            "stars": 36237,
             "topics": [
               "jax"
             ]
@@ -67,11 +67,11 @@
             "id": 170580540,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T05:42:37Z",
-            "open_issues": 71,
+            "last_commit": "2026-09-01T21:43:22Z",
+            "open_issues": 70,
             "owner": "pyro-ppl",
             "repo": "numpyro",
-            "stars": 2751,
+            "stars": 2752,
             "topics": [
               "bayesian-inference",
               "hmc",
@@ -281,7 +281,7 @@
             "id": 480587737,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T05:21:56Z",
+            "last_commit": "2026-09-01T14:41:33Z",
             "open_issues": 71,
             "owner": "probml",
             "repo": "dynamax",
@@ -474,11 +474,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T11:15:43Z",
-                "open_issues": 2390,
+                "last_commit": "2026-09-02T11:05:32Z",
+                "open_issues": 2402,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164689,
+                "stars": 164715,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -548,7 +548,7 @@
                 "open_issues": 517,
                 "owner": "google",
                 "repo": "flax",
-                "stars": 7310,
+                "stars": 7311,
                 "topics": [
                   "jax"
                 ]
@@ -571,7 +571,7 @@
                 "open_issues": 517,
                 "owner": "google",
                 "repo": "flax",
-                "stars": 7310,
+                "stars": 7311,
                 "topics": [
                   "jax"
                 ]
@@ -590,8 +590,8 @@
                 "id": 385275507,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T20:16:01Z",
-                "open_issues": 305,
+                "last_commit": "2026-09-01T15:11:00Z",
+                "open_issues": 304,
                 "owner": "google-research",
                 "repo": "scenic",
                 "stars": 3821,
@@ -623,7 +623,7 @@
                 "open_issues": 105,
                 "owner": "google-deepmind",
                 "repo": "dm-haiku",
-                "stars": 3277,
+                "stars": 3278,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -789,7 +789,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -811,7 +811,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-06T22:18:55Z",
-                "open_issues": 726,
+                "open_issues": 727,
                 "owner": "tensorflow",
                 "repo": "probability",
                 "stars": 4430,
@@ -844,7 +844,7 @@
                 "open_issues": 109,
                 "owner": "google",
                 "repo": "brax",
-                "stars": 3228,
+                "stars": 3227,
                 "topics": [
                   "jax",
                   "physics-simulation",
@@ -891,11 +891,11 @@
                 "id": 607845880,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T11:32:31Z",
-                "open_issues": 329,
+                "last_commit": "2026-09-02T10:13:58Z",
+                "open_issues": 334,
                 "owner": "AI-Hypercomputer",
                 "repo": "maxtext",
-                "stars": 2408,
+                "stars": 2409,
                 "topics": [
                   "deepseek",
                   "fine-tuning",
@@ -961,7 +961,7 @@
                 "open_issues": 19,
                 "owner": "luchris429",
                 "repo": "purejaxrl",
-                "stars": 1100,
+                "stars": 1101,
                 "topics": [
                   "deep-reinforcement-learning",
                   "jax",
@@ -1009,7 +1009,7 @@
                 "open_issues": 0,
                 "owner": "RobertTLange",
                 "repo": "gymnax",
-                "stars": 916,
+                "stars": 917,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -1026,8 +1026,8 @@
                 "id": 523628011,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T16:00:06Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-01T22:01:46Z",
+                "open_issues": 28,
                 "owner": "instadeepai",
                 "repo": "jumanji",
                 "stars": 860,
@@ -1073,7 +1073,7 @@
                 "id": 441398383,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T09:08:28Z",
+                "last_commit": "2026-09-01T12:47:14Z",
                 "open_issues": 64,
                 "owner": "ott-jax",
                 "repo": "ott",
@@ -1273,8 +1273,8 @@
                 "id": 601182235,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T11:06:01Z",
-                "open_issues": 49,
+                "last_commit": "2026-09-01T16:53:14Z",
+                "open_issues": 48,
                 "owner": "NVIDIA",
                 "repo": "JAX-Toolbox",
                 "stars": 428,
@@ -1365,11 +1365,11 @@
                 "id": 894340568,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-24T11:25:36Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-02T03:23:34Z",
+                "open_issues": 48,
                 "owner": "ymahlau",
                 "repo": "fdtdx",
-                "stars": 345,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -1436,7 +1436,7 @@
                 "id": 471322163,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T03:29:12Z",
+                "last_commit": "2026-09-01T16:15:44Z",
                 "open_issues": 25,
                 "owner": "google-deepmind",
                 "repo": "kfac-jax",
@@ -1461,7 +1461,7 @@
                 "id": 509708254,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T20:53:09Z",
+                "last_commit": "2026-09-01T20:57:34Z",
                 "open_issues": 41,
                 "owner": "secretflow",
                 "repo": "spu",
@@ -1587,7 +1587,7 @@
                 "open_issues": 16,
                 "owner": "google",
                 "repo": "torchax",
-                "stars": 240,
+                "stars": 241,
                 "topics": [
                   "ai",
                   "interoperability",
@@ -1711,8 +1711,8 @@
                 "id": 653048276,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T08:58:28Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-02T11:12:23Z",
+                "open_issues": 18,
                 "owner": "epignatelli",
                 "repo": "navix",
                 "stars": 179,
@@ -1762,7 +1762,7 @@
                 "id": 408799370,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-31T21:35:05Z",
+                "last_commit": "2026-09-01T23:14:07Z",
                 "open_issues": 19,
                 "owner": "lanl",
                 "repo": "scico",
@@ -1956,8 +1956,8 @@
                 "id": 465457609,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T14:45:41Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-02T08:41:49Z",
+                "open_issues": 21,
                 "owner": "google-deepmind",
                 "repo": "tf2jax",
                 "stars": 125,
@@ -2272,8 +2272,8 @@
                 "id": 712381713,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T06:21:32Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-02T03:48:58Z",
+                "open_issues": 11,
                 "owner": "jeertmans",
                 "repo": "DiffeRT",
                 "stars": 64,
@@ -2474,7 +2474,7 @@
                 "id": 816269749,
                 "language": "Jupyter Notebook",
                 "license": null,
-                "last_commit": "2026-07-27T16:40:55Z",
+                "last_commit": "2026-09-01T20:38:28Z",
                 "open_issues": 0,
                 "owner": "AshishKumar4",
                 "repo": "FlaxDiff",
@@ -2517,7 +2517,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-02-11T11:48:27Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "bahremsd",
                 "repo": "tmmax",
                 "stars": 39,
@@ -2578,7 +2578,7 @@
                 "id": 775105260,
                 "language": "HTML",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-31T21:35:43Z",
+                "last_commit": "2026-09-01T21:46:15Z",
                 "open_issues": 7,
                 "owner": "cabouman",
                 "repo": "mbirjax",
@@ -2645,7 +2645,7 @@
                     "open_issues": 12,
                     "owner": "mfinzi",
                     "repo": "equivariant-MLP",
-                    "stars": 288,
+                    "stars": 287,
                     "topics": [
                       "deep-learning",
                       "equivariance"
@@ -2908,7 +2908,7 @@
                     "id": 825447742,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T07:38:53Z",
+                    "last_commit": "2026-09-02T10:38:33Z",
                     "open_issues": 0,
                     "owner": "chaobrain",
                     "repo": "braincell",
@@ -2977,7 +2977,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3002,7 +3002,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3027,7 +3027,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3052,7 +3052,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3077,7 +3077,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3102,7 +3102,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3127,7 +3127,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3169,7 +3169,7 @@
                 "id": 284098897,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T11:30:37Z",
+                "last_commit": "2026-09-01T14:06:14Z",
                 "open_issues": 10,
                 "owner": "Joshuaalbert",
                 "repo": "jaxns",
@@ -3238,7 +3238,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3263,7 +3263,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3288,7 +3288,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3313,7 +3313,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3338,7 +3338,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3363,7 +3363,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3388,7 +3388,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3413,7 +3413,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3438,7 +3438,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3463,7 +3463,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3488,7 +3488,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3513,7 +3513,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3538,7 +3538,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3563,7 +3563,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3588,7 +3588,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3613,7 +3613,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3638,7 +3638,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3663,7 +3663,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3688,7 +3688,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3713,7 +3713,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3738,7 +3738,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3763,7 +3763,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3788,7 +3788,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3813,7 +3813,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12694,
+                "stars": 12695,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -3863,7 +3863,7 @@
                 "open_issues": 27,
                 "owner": "google",
                 "repo": "mipnerf",
-                "stars": 936,
+                "stars": 935,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -4103,7 +4103,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38664,
+                "stars": 38679,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -4128,7 +4128,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15177,
+                "stars": 15181,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -4149,7 +4149,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15177,
+                "stars": 15181,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -4170,7 +4170,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15177,
+                "stars": 15181,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -4191,7 +4191,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15177,
+                "stars": 15181,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -4212,7 +4212,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15177,
+                "stars": 15181,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -4233,7 +4233,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15177,
+                "stars": 15181,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -4254,7 +4254,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15177,
+                "stars": 15181,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -4275,7 +4275,7 @@
                 "open_issues": 358,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15177,
+                "stars": 15181,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -4296,7 +4296,7 @@
                 "open_issues": 307,
                 "owner": "google-deepmind",
                 "repo": "alphafold",
-                "stars": 14822,
+                "stars": 14824,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:35.942Z"
@@ -4434,7 +4434,7 @@
             "open_issues": 1,
             "owner": "gordicaleksa",
             "repo": "get-started-with-JAX",
-            "stars": 786,
+            "stars": 787,
             "topics": [
               "deep-learning",
               "flax",
@@ -4504,7 +4504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:38:30.979Z",
+    "last_updated": "2026-09-02T11:17:38.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "JAX - A curated list of resources https://github.com/google/jax",
@@ -4516,7 +4516,7 @@
       "open_issues": 26,
       "owner": "n2cholas",
       "repo": "awesome-jax",
-      "stars": 2158,
+      "stars": 2157,
       "topics": [
         "autograd",
         "awesome",
